@@ -11,6 +11,9 @@ public class Threads {
         System.out.println("Hello world!");
         System.out.println("Hello world!");
         System.out.println("feature");
+
+        System.out.println("feature2");
+        System.out.println("feature");
         System.out.println("feature");
         System.out.println("feature");
 
