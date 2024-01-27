@@ -7,6 +7,8 @@ public class Threads {
         System.out.println("Hello world!");
         System.out.println("Hello world!");
         System.out.println("testbranch1");
+        System.out.println("testbranch1");
+        System.out.println("testbranch2");
 
 
     }
